@@ -1,0 +1,23 @@
+{
+    "data": [{
+        "typeface_color": "#ff9900",
+        "maintitle": "1元插花课程",
+        "imageurl": "http://p0.meituan.net/w.h/groupop/9aa35eed64db45aa33f9e74726c59d938450.png",
+        "deputytitle": "新用户专享"
+    }, {
+        "typeface_color": "#f6687d",
+        "maintitle": "领21元红包",
+        "imageurl": "http://p0.meituan.net/w.h/groupop/b8fb2def2c0063c9acabed6cbf1c65449452.png",
+        "deputytitle": "小长假美美哒"
+    }, {
+        "typeface_color": "#6bbd00",
+        "maintitle": "新用户专享",
+        "imageurl": "http://p0.meituan.net/w.h/groupop/e1855577efd5280c905ab7a438b83f3d5000.png",
+        "deputytitle": "最高立减25元"
+    }, {
+        "typeface_color": "#06c1ae",
+        "maintitle": "一元抢吧",
+        "imageurl": "http://p0.meituan.net/w.h/groupop/e1855577efd5280c905ab7a438b83f3d5000.png",
+        "deputytitle": "爆品抢到手软"
+    }]
+}

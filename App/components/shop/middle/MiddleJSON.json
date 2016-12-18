@@ -1,0 +1,9 @@
+{
+  "dataLeft":[
+    {"img1" : "mdqg", "img2" : "yyms", "title" : "圣诞树", "price": "¥188.00", "sale": "包邮"}
+  ],
+  "dataRight":[
+    {"title" : "梦幻满天星", "subTitle" : "不想错过你", "rightImage" : "tttj", "titleColor": "orange"},
+    {"title" : "红玫瑰", "subTitle" : "送热恋情人", "rightImage" : "yyms", "titleColor": "red"}
+  ]
+}
