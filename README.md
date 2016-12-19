@@ -1,6 +1,6 @@
 ### HuaTianXiaoQi
 
-对React Native开发APP感兴趣，照着 **花田小憩APP** 开发了几个页面,本人纯后端,欢迎指导。
+对React Native开发APP感兴趣，照着 **花田小憩APP** 开发了几个页面, 只测试过ios环境，欢迎指导。
 
 ![alt text](./info.gif "info")
 
