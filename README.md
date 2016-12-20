@@ -54,3 +54,8 @@ watchman watch-del-all
 ```
 
 - webview 不能访问 http 请求
+iOS9引入了新特性App Transport Security (ATS)。详情：[App Transport Security (ATS)](https://developer.apple.com/library/prerelease/ios/releasenotes/General/WhatsNewIniOS/Articles/iOS9.html#//apple_ref/doc/uid/TP40016198-DontLinkElementID_13)
+新特性要求App内访问的网络必须使用HTTPS协议。
+使用http协议的解决办法：
+在Info.plist中添加NSAppTransportSecurity类型Dictionary。
+在NSAppTransportSecurity下添加NSAllowsArbitraryLoads类型Boolean,值设为YES
